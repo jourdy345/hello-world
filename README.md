@@ -6,4 +6,4 @@
 0. HEY
 0. HEY
 
-> This is an example.
+> This is an **example**.
